@@ -1,31 +1,30 @@
 {
-    "id": "6858ae003029ceb27f48115b",
-    "logo": "https://i.ibb.co/k2GBrQ97/Photography-Icons-in-Blue-removebg-preview.png",
-    "store_name": "rouf soft",
-    "main_color": "#0066ff",
-    "phone": "0776966468",
-    "repoName": "",
-    "facebook": "https://www.facebook.com/",
-    "instagram": "https://www.instagram.com/",
-    "tiktok": "https://www.tiktok.com/",
-    "email": "raouf.hamoudi.r@gmail.com",
-    "tiktokP": "",
-    "FacebookP": "",
-    "header": {
-        "name": true,
-        "logo": true,
-        "headercolor": "#ffffff",
-        "namecolor": "#000000",
-        "barcolor": "#333"
-    },
-    "thanks": {
-        "img": true,
-        "title": true,
-        "about": true,
-        "homebutton": true,
-        "phone": true,
-        "media": true,
-        "titleText": "Thank you for your order!",
-        "aboutText": "We will contact you soon. Have a nice day."
-    }
+  "id": "68cc71724135913a133f804e",
+  "logo": "https://i.ibb.co/k2GBrQ97/Photography-Icons-in-Blue-removebg-preview.png",
+  "main_color": "#001637ff",
+  "phone": "0792212456",
+  "repoName": "yacinephone",
+  "facebook": "https://www.facebook.com/",
+  "instagram": "https://www.instagram.com/",
+  "tiktok": "https://www.tiktok.com/",
+  "email": "raouf.hamoudi.r@gmail.com",
+  "tiktokP": "",
+  "FacebookP": "",
+  "header": {
+    "name": true,
+    "logo": true,
+    "headercolor": "#ffffff",
+    "namecolor": "#000000",
+    "barcolor": "#333"
+  },
+  "thanks": {
+    "img": true,
+    "title": true,
+    "about": true,
+    "homebutton": true,
+    "phone": true,
+    "media": true,
+    "titleText": "Thank you for your order!",
+    "aboutText": "We will contact you soon. Have a nice day."
+  }
 }
